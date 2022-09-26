@@ -1,0 +1,20 @@
+.hedar {
+    height: 80px;
+    background-color: #1C2B35;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 140px;
+    padding-right: 140px;
+}
+
+.hedar a {
+    color: #ffff;
+    text-decoration: none;
+    font-size: 17px;
+    margin-left: 36px;
+}
+
+.hedar a:hover {
+    color: orange;
+}
